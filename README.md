@@ -7,5 +7,5 @@ Custom [fontscutom](FontCustom/fontcustom) icons for the [Geppetto](OpenWorm/org
 
 Besides providing our own (dodgy) artworkg, we bundle icons from other projects. 
 
-- worm: GeneMania/bio-icons, wich in turn points to Fishing Hook by Stephen Hemenway from The Noun Project [BY 3.0] https://creativecommons.org/licenses/by/3.0/)
+- worm: GeneMania/bio-icons, wich in turn points to Fishing Hook by Stephen Hemenway from The Noun Project [BY 3.0] (https://creativecommons.org/licenses/by/3.0/)
 - make-group: Keyamoon from [Icomoon - Free](icomoon.io). [GPL or CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
