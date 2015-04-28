@@ -1,6 +1,6 @@
 # org.geppetto.frontend.icons
 
-Custom [fontscutom](https://github.com/FontCustom/fontcustom) icons for the
+Custom [fontcustom](https://github.com/FontCustom/fontcustom) icons for the
 [Geppetto](https://github.com/openworm/org.geppetto) project. Just start from any of the existing
 icons (svg file), rename it and compile using `fontcustom compile .` to get the
 updated font files and css.
