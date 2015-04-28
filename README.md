@@ -5,6 +5,10 @@ Custom [fontcustom](https://github.com/FontCustom/fontcustom) icons for the
 icons (svg file), rename it and compile using `fontcustom compile .` to get the
 updated font files and css.
 
+## Preview
+
+You can see the currently defined icons [here](rawgit.com/borismarin/org.geppetto.frontend.icons/master/gpt/gpt-icons-preview.html)
+
 
 ## Credits
 
