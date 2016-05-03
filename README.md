@@ -12,7 +12,7 @@ You can see the currently defined icons [here](http://rawgit.com/borismarin/org.
 
 ## Credits
 
-Besides providing our own (dodgy) artworkg, we bundle icons from other projects. 
+Besides providing our own (dodgy) artwork, we bundle icons from other projects. 
 
 - worm: GeneMania/bio-icons, wich in turn points to Fishing Hook by Stephen
   Hemenway from The Noun Project. [BY 3.0](https://creativecommons.org/licenses/by/3.0/)
