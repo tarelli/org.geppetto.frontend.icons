@@ -20,3 +20,7 @@ Besides providing our own (dodgy) artworkg, we bundle icons from other projects.
   4.0](https://creativecommons.org/licenses/by/4.0/)
 - stats-dots: Keyamoon from [Icomoon - Free](icomoon.io). [GPL or CC BY
   4.0](https://creativecommons.org/licenses/by/4.0/)
+
+All brand icons are trademarks of their respective owners.
+The use of these trademarks does not indicate endorsement of the trademark holder by Geppetto, nor vice versa.
+Brand icons should only be used to represent the company or product to which they refer.
