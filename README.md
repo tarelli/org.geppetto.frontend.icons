@@ -7,7 +7,7 @@ updated font files and css.
 
 ## Preview
 
-You can see the currently defined icons [here](http://rawgit.com/borismarin/org.geppetto.frontend.icons/master/gpt/gpt-icons-preview.html).
+You can see the currently defined icons [here](http://rawgit.com/tarelli/org.geppetto.frontend.icons/master/gpt/gpt-icons-preview.html).
 
 
 ## Credits
